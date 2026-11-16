@@ -1,0 +1,6 @@
+.pio/
+fp-info-cache
+*-backups/
+*.bak
+~*.lck
+_autosave-*
