@@ -33,7 +33,11 @@ It was designed to be hand-assembled with paste and hot air (0603/0805, SOIC, TS
 - LCSC ships with minimum quantities (50 or 100 for 0603 parts), so a full set costs about $30 for parts plus shipping, and the PCBs are about $4 plus shipping for five.
   `output/LCSC_order_2boards.csv` is a ready-to-upload BOM (two boards plus spares, with the L1 substitution).
 
-![top](output/layout_top.png)
+![3D render of the board](output/render_angle.png)
+
+*KiCad 3D render of the board. The USB-C receptacle (left edge), rotary encoder and OLED module have no 3D models in KiCad's library, so they show as outlines only. In the finished tool the OLED plugs into J2, and the TO-220 MOSFET (top-left) sits on a heatsink that hangs over the board edge.*
+
+![PCB layout, top layer](output/layout_top.png)
 
 ## Files
 
