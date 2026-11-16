@@ -35,7 +35,7 @@ It was designed to be hand-assembled with paste and hot air (0603/0805, SOIC, TS
 
 ![3D render of the board](output/render_angle.png)
 
-*KiCad 3D render of the board. The USB-C receptacle (left edge), rotary encoder and OLED module have no 3D models in KiCad's library, so they show as outlines only. In the finished tool the OLED plugs into J2, and the TO-220 MOSFET (top-left) sits on a heatsink that hangs over the board edge.*
+*KiCad 3D render of the board. The USB-C receptacle (left edge) and rotary encoder (top right) are simplified placeholder blocks, because KiCad's library has no 3D models for those parts (3d/). The OLED module isn't modelled. In the finished tool the OLED plugs into J2, and the TO-220 MOSFET (top-left) sits on a heatsink that hangs over the board edge.*
 
 ![PCB layout, top layer](output/layout_top.png)
 
